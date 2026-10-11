@@ -1,0 +1,6 @@
+segment,customers,avg_recency_days,avg_orders,avg_spend,total_spend
+1 Champions,6,32.0,7.0,43.12,258.72
+2 Loyal,20,137.0,7.0,40.12,802.4
+"3 Recent, low spend",8,46.0,7.0,37.62,300.96
+"4 High value, at risk",4,413.0,7.0,43.37,173.48
+5 Hibernating,21,350.0,7.0,37.76,793.04

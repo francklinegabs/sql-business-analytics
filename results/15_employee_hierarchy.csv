@@ -1,0 +1,9 @@
+level,name,title,reporting_chain
+0,Andrew Adams,General Manager,Andrew Adams
+1,Michael Mitchell,IT Manager,Andrew Adams > Michael Mitchell
+2,Laura Callahan,IT Staff,Andrew Adams > Michael Mitchell > Laura Callahan
+2,Robert King,IT Staff,Andrew Adams > Michael Mitchell > Robert King
+1,Nancy Edwards,Sales Manager,Andrew Adams > Nancy Edwards
+2,Jane Peacock,Sales Support Agent,Andrew Adams > Nancy Edwards > Jane Peacock
+2,Margaret Park,Sales Support Agent,Andrew Adams > Nancy Edwards > Margaret Park
+2,Steve Johnson,Sales Support Agent,Andrew Adams > Nancy Edwards > Steve Johnson

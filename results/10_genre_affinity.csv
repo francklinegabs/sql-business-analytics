@@ -1,0 +1,13 @@
+genre_a,genre_b,invoices_together
+Alternative & Punk,Rock,54
+Latin,Rock,51
+Metal,Rock,46
+Latin,Metal,25
+Jazz,Rock,24
+Alternative & Punk,Latin,20
+Jazz,Latin,17
+Jazz,Metal,15
+Alternative & Punk,Jazz,13
+Alternative & Punk,Metal,13
+Blues,Rock,13
+Rock,Soundtrack,12

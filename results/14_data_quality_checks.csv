@@ -1,0 +1,8 @@
+check_name,failures
+invoices whose Total differs from sum of lines,0
+invoice lines pointing at missing tracks,0
+invoices with no lines,0
+customers without a support rep,0
+customers with no state recorded,29
+tracks with no composer,977
+line price differs from catalogue price,0
